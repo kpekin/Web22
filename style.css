@@ -1,5 +1,5 @@
 body{   
-    background-color: pink;
+    background-color: rgb(119, 177, 119);
     margin:0; padding:0;
     display: grid;
     justify-content: center;
@@ -11,8 +11,7 @@ body{
     justify-content: flex-end;
 }
 #card{
-    height:25rem; width:25rem; background-color:green;
-    font-size: 12pt;
+    height:25rem; width:25rem; background-color :  rgb(236, 236, 160);   
     padding:0.25;
     border: 0.05em; solid :rgb; 
     border: radius 10%;
@@ -24,14 +23,10 @@ card:hover{
     width:17rem;
     padding:0.25em;
     border:0.1em; solid white; 
-    box-shadow: 0.12rem 0.5 0.3rem rgb(red, green, blue)/* 4 values, x-axis y-axis blur colors*/
+    box-shadow: 0.12rem 0.5 0.3rem rgb(red, rgb(65, 185, 65), blue)/* 4 values, x-axis y-axis blur colors*/
 }
 div#red{
 
 }
 <div id="card">
-         Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-         Unde nisi veritatis nesciunt animi, 
-         eveniet consequuntur aspernatur illo omnis adipisci id esse obcaecati, 
-         in voluptate. Ex nisi ad id eius. Similique?
-     </div>
+         
